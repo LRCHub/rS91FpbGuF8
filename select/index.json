@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "同じ夜",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2026-03-06T09:56:45.467533Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "同じ夜",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_同じ夜_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "同じ夜",
+      "artist": "DAOKO",
+      "has_synced": false,
+      "path": "select/02_同じ夜_DAOKO.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Onaji Yoru [同じ夜]",
+      "artist": "DAOKO",
+      "has_synced": false,
+      "path": "select/03_Onaji_Yoru_[同じ夜]_DAOKO.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Onaji Yoru [同じ夜]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/04_Onaji_Yoru_[同じ夜]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "同じ夜",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/05_同じ夜_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "同じ夜",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/06_同じ夜_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "同じ夜",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/07_同じ夜_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DAOKO『同じ夜』MUSIC VIDEO",
+      "artist": "Daoko",
+      "has_synced": false,
+      "path": "select/08_DAOKO『同じ夜』MUSIC_VIDEO_Daoko.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "同じ夜",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_同じ夜_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "同じ夜",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_同じ夜_椎名_林檎.txt"
+    }
+  ]
+}
